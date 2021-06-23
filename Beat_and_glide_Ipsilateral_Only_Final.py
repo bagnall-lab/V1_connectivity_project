@@ -2,9 +2,9 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Created on Tue Jul  3 15:47:19 2018
+Created on Tue June 22 2021
 
-@author: Yann Roussel and Tuan Bui
+@author: Vamsi Daliparthi, Martha Bagnall, Yann Roussel and Tuan Bui
 """
 
 # Types of neurons in models: 

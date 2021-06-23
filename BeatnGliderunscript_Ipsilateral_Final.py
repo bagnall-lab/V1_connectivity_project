@@ -5,7 +5,7 @@ from scipy.signal import find_peaks
 import numpy as np
 
 #from Beat_and_glide_Ipsilateral_Only_bad import *
-from Beat_and_glide_Ipsilateral_Only_good import *
+from Beat_and_glide_Ipsilateral_Only_Final import *
 
 ((VLIC), (VLMN), (VLCiD),
 (VLCiA),Time, Connectome_Weights, sum_CIA_MN, sum_CIA_CiD) = connectome_beat_glide_ipsilateral(rand=0, stim0=0.35, sigma=0.0,
